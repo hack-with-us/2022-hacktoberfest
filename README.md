@@ -100,7 +100,7 @@ Add a `hello_world_yourusername.xx` script to the `scripts` directory in any lan
 // LANGUAGE: Javascript
 // ENV: Node.js
 // AUTHOR: Jone doe
-// GITHUB: https://github.com/Mr-Mehra-D-BUG
+// GITHUB: https://github.com/username 
 
 console.log('Hello, World!');
 ```
