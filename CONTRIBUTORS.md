@@ -14,3 +14,8 @@ GitHub: [Neeraj-singh-kapkoti](https://github.com/neeraj-singh-kapkoti)
 place: Koege, Denmark
 bio: Fullstack developer, sucker for synthwave & motorcycles.
 GitHub: [NikoDyring](https://github.com/nikodyring)
+
+#### Name: [KUMAR SHANU](https://github.com/Kr-Shanu)
+- Place: Bhagalpur, Bihar, India
+- Bio: Pre-final student at VIT-B. AI/ML enthusiast.
+- GitHub: [Kr-Shanu](https://github.com/Kr-Shanu)
